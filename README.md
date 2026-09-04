@@ -90,4 +90,9 @@ I'm looking for opportunities as a **Python Developer** where I can work on real
 
 ---
 
+## 📊 GitHub Stats
+
+![Abeesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abeeshkumaravel143-bit&show_icons=true&hide_border=true)
+
+
 ⭐ Thanks for visiting my profile!
