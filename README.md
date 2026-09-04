@@ -1,81 +1,84 @@
 # 👋 Hi, I'm Abeesh K
 
-🐍 **Python Developer | AI/ML Enthusiast**
+### 🐍 Python Developer | AI/ML Enthusiast
 
-I'm a fresher passionate about Python development and interested in Artificial Intelligence and Machine Learning.
+I'm a Python developer focused on building practical applications and exploring Artificial Intelligence and Machine Learning.
 
 ## 🎓 About Me
 
-- 🎓 B.Com (Computer Applications) — 2024
-- 🎓 MCA — 2026
-- 💻 Currently focused on Python Development
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 📚 Currently learning Django, LangChain, and improving my Python skills
-- 🚀 Building practical projects to improve my development skills
+* 🎓 B.Com (Computer Applications) — 2024
+* 🎓 MCA — 2026
+* 💻 Focused on Python development and backend technologies
+* 🤖 Interested in Artificial Intelligence and Machine Learning
+* 📚 Currently learning Django and LangChain
+* 🧠 Improving problem-solving and algorithmic thinking
+* 🚀 Building practical projects to gain real-world development experience
 
 ## 🛠️ Tech Stack
 
 ### Languages
 
-- 🐍 Python
-- 🌐 HTML
-- 🎨 CSS
-- 🗄️ SQL
+* 🐍 Python
+* 🌐 HTML
+* 🎨 CSS
+* 🗄️ SQL
 
 ### Frameworks & Libraries
 
-- ⚡ FastAPI
-- 🌐 Django
-- 🐼 Pandas
-- 🔢 NumPy
-- 🔗 LangChain
+* ⚡ FastAPI
+* 🌐 Django
+* 🐼 Pandas
+* 🔢 NumPy
+* 🔗 LangChain
 
 ### Databases
 
-- 🐬 MySQL
-- 🐘 PostgreSQL
+* 🐬 MySQL
+* 🐘 PostgreSQL
 
-### Tools
+### Tools & Technologies
 
-- 🐙 Git & GitHub
-- 🐳 Docker
-- 💻 VS Code
+* 🐙 Git & GitHub
+* 🐳 Docker
+* 💻 VS Code
+* ⚛️ React
+* 🗃️ FAISS
 
 ## 🚀 Featured Projects
 
 ### 🤖 DevOps Runbook Assistant
 
-An AI-powered chatbot designed to help DevOps and SRE teams quickly find step-by-step solutions from operational runbooks.
+A RAG-powered AI assistant designed to help DevOps and SRE teams quickly find troubleshooting solutions from operational runbooks.
 
-It uses Retrieval-Augmented Generation (RAG) to search operational documents and generate accurate answers with relevant commands and references.
+The application uses retrieval-augmented generation to retrieve relevant runbook information and generate contextual responses.
 
-**Tech:** Python, FastAPI, React, Vite, PostgreSQL, FAISS, LangChain, Hugging Face, Groq API, LLaMA 2, Docker
+**Tech:** Python, FastAPI, React, FAISS, PostgreSQL, Groq, Docker
 
-🔗 **GitHub:** Coming soon — link will be added after we verify your repository.
+🔗 **[View Project](https://github.com/abeeshkumaravel143-bit/DevOps-Runbook-Assistant)**
 
 ---
 
 ### 📊 Gradepoint — Student Performance Analysis & Score Prediction
 
-An end-to-end machine learning project that analyzes student performance and predicts final academic scores using factors such as study hours, attendance, previous scores, sleep, screen time, absences, parental education, extracurricular activities, internet access, and study-group participation.
+An end-to-end machine learning project that analyzes student performance and predicts final academic scores using academic, behavioral, and lifestyle-related factors.
 
-The project also includes exploratory data analysis, visualizations, student risk classification, and a Flask web dashboard/API for live predictions.
+The project includes exploratory data analysis, data visualization, machine learning-based score prediction, student risk classification, and a Flask web application for predictions.
 
-**Tech:** Python, Pandas, NumPy, Scikit-learn, Flask, Matplotlib, Seaborn, Joblib, HTML/Jinja2, CSS
+**Tech:** Python, Pandas, NumPy, Scikit-learn, Flask, Matplotlib, Seaborn, Joblib, HTML, CSS
 
-🔗 **GitHub:** Coming soon
+🔗 **Project coming soon**
 
 ## 📚 Currently Learning
 
-- 🐍 Improving Python and problem-solving skills
-- 🌐 Django
-- 🔗 LangChain
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Machine Learning concepts and practical implementation
+* 🐍 Advanced Python and problem-solving
+* 🌐 Django
+* 🔗 LangChain
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Machine Learning fundamentals and practical implementation
 
-## 🎯 Career Goals
+## 🎯 Career Goal
 
-I'm currently looking for opportunities as a **Python Developer** where I can apply my programming skills, work on real-world projects, and continue growing in backend development and AI/ML.
+I'm looking for opportunities as a **Python Developer** where I can work on real-world applications, strengthen my backend development skills, and continue growing in AI/ML.
 
 ## 🌐 Connect With Me
 
@@ -87,4 +90,4 @@ I'm currently looking for opportunities as a **Python Developer** where I can ap
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+⭐ Thanks for visiting my profile!
